@@ -72,13 +72,13 @@ ylabel('Amplitude');
 legend show;
 grid on;
 
-![image](/images/ss1.png)
-![image](/images/ss2.png)
-![image](/images/ss3.png)
-![image](/images/ss4.png)
-![image](/images/ss5.png)
-![image](/images/ss6.png)
-![image](/images/ss7.png)
+![image](/image/ss1.png)
+![image](/image/ss2.png)
+![image](/image/ss3.png)
+![image](/image/ss4.png)
+![image](/image/ss5.png)
+![image](/image/ss6.png)
+![image](/image/ss7.png)
 
 
 
