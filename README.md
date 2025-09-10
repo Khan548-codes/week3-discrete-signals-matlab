@@ -80,6 +80,21 @@ grid on;
 ![image](/image/ss6.png)
 ![image](/image/ss7.png)
 
+# DISCRIPTION
+Unit Impulse (δ[n]) → Spike at 𝑛=0 zero elsewhere.
+
+Unit Step (u[n]) → 0 for 𝑛<0, 1 for 𝑛≥0. Like a switch turning on.
+
+Unit Ramp (r[n]) → 0 for n<0, grows linearly (𝑛
+n) for n≥0.
+
+Exponential (e^{0.1n}) → Smoothly increasing curve, grows as n increases.
+
+Signum (sgn[n]) → -1 for 
+𝑛 <0n<0, 0 at n=0, +1 for n>0.
+
+Sinc (sinc[n]) → Oscillates, value = 1 at 𝑛=0
+n=0, decays as ∣n∣ increases.
 
 
 
